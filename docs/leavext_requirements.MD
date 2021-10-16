@@ -107,12 +107,6 @@ https://rcycle.net/drevesina/listya/ustrojstva-dlya-uborki/sadovye-pylesosy/akku
 Заряда этого аккумулятора хватит минут на 15–20.
 масса устройства без аккумулятора в режиме воздуходувки составляет 4,8 кг 
 
-# Машины для сборки листьев.
-1. [Industrial Vacuum Sucks Up Thousands Of Leaves Per Minute](https://www.youtube.com/watch?v=WeCmKPCtYLw)
-2. [Titan Leaf Solutions](https://youtu.be/DYlqoOSGh_w)
-3. 
-
-
 
 # Патенты
 1. [US9375646B2](https://patents.google.com/patent/US9375646B2/en?q=wind+tunnel&oq=wind+tunnel) Wind tunnel design with expanding corners 

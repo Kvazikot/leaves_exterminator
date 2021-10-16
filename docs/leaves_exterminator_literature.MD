@@ -11,6 +11,7 @@
 ### Control Teory
 
 ### Аэродинамика
+* Wind Tunnels Uses and Developments by Zied Driss (z-lib.org)_copy.pdf
 
 ### Системная инженерия
 * NASA Systems Engineering Handbook by National Aeronautics and Space Administration (NASA)

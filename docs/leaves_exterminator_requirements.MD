@@ -1,7 +1,7 @@
   + - - - + - + - -
   + - + - + copyright by Vladimir Baranov (Kvazikot)  <br>
   + - + - + email: vsbaranov83@gmail.com  <br>
-  + - + - + github: http://github.com/Kvazikot/leaves_exterminator <br>
+  + - + - + github: http://github.com/Kvazikot/<br>
 ```
                             )            (
                            /(   (\___/)  )\

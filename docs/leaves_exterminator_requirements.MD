@@ -110,14 +110,13 @@ https://rcycle.net/drevesina/listya/ustrojstva-dlya-uborki/sadovye-pylesosy/akku
 
 # Ссылки на видео
 1. Роботы UNI3 A1 и AlienGo: https://youtu.be/cORmugDam_4
-2. hexapod. АРС - Шагающий поисково-спасательный робот https://www.youtube.com/watch?v=M3o6ToZ4Auc\	     
-3  [Шагающая грузовая платформа на 3D принтере. Часть 2](https://www.youtube.com/watch?v=C_nxCPMWlyc)
-4. Гнев природы! ПЫЛЕВЫЕ ВИХРИ! https://www.youtube.com/watch?v=W9tKKi5Xpes
-5. [How WIND TUNNELS Work](https://www.youtube.com/watch?v=KC0E0wU6inU)
-6. [How WIND TUNNELS Work2](https://youtu.be/L1AYo9Mk1EI) 
+2. [Шагающая грузовая платформа на 3D принтере. Часть 2](https://www.youtube.com/watch?v=C_nxCPMWlyc)
+3. Гнев природы! ПЫЛЕВЫЕ ВИХРИ! https://www.youtube.com/watch?v=W9tKKi5Xpes
+4. [How WIND TUNNELS Work](https://www.youtube.com/watch?v=KC0E0wU6inU)
+5. [How WIND TUNNELS Work2](https://youtu.be/L1AYo9Mk1EI) 
 
 # Патенты
-1. Wind tunnel design with expanding corners [US9375646B2](https://patents.google.com/patent/US9375646B2/en?q=wind+tunnel&oq=wind+tunnel)
+1. [US9375646B2](https://patents.google.com/patent/US9375646B2/en?q=wind+tunnel&oq=wind+tunnel) Wind tunnel design with expanding corners 
 
 ## [Литература](https://github.com/Kvazikot/leaves_exterminator/blob/master/docs/leaves_exterminator_literature.MD)
 

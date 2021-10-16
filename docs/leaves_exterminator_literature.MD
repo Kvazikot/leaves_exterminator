@@ -1,8 +1,9 @@
 # Литература для проекта уничтожителя листьев (leaves_exterminator)
 
 ## Теория хаоса и теория сложности 
-Nonlinear Dynamics And Chaos With Applications To Physics, Biology, Chemistry, And Engineering by Steven H. Strogatz
-Rapidly-Exploring Random Trees: Progress and Prospects
+[chaos_teory1]: http://url_to_book
+* [Nonlinear Dynamics And Chaos With Applications To Physics, Biology, Chemistry, And Engineering by Steven H. Strogatz][chaos_teory1]
+* Rapidly-Exploring Random Trees: Progress and Prospects
 
 ## Машинное обучение и компьютерное зрение
 Unity Machine Learning Agents

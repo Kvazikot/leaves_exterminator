@@ -107,6 +107,10 @@ https://rcycle.net/drevesina/listya/ustrojstva-dlya-uborki/sadovye-pylesosy/akku
 Заряда этого аккумулятора хватит минут на 15–20.
 масса устройства без аккумулятора в режиме воздуходувки составляет 4,8 кг 
 
+# Машины для сборки листьев.
+1. [Industrial Vacuum Sucks Up Thousands Of Leaves Per Minute](https://www.youtube.com/watch?v=WeCmKPCtYLw)
+2. 
+
 
 
 # Патенты

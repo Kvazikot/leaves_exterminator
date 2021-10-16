@@ -43,7 +43,8 @@
 Например создание вихревых огненных потоков для уничтожения умной пыли из наночипов.
 Возможно подключение [мобильной аэротрубы](https://tehclub.site/products/aerotruba-2-2m) на грузовике.
 В трубе можно предусмотреть масспектрометры, газоанализаторы, etc.
-
+По английски это называется wind tunnel применяется много где. см патент 
+[US9375646B2](https://patents.google.com/patent/US9375646B2/en?q=wind+tunnel&oq=wind+tunnel)
 
 # Functional Requirements
 * r1. необходимо справляться с большим количеством листьев (30 мешков)
@@ -113,3 +114,6 @@ Alex Korvin Workshop
 5 кг. полезной нагрузки.
 
 * 4.  Гнев природы! ПЫЛЕВЫЕ ВИХРИ! https://www.youtube.com/watch?v=W9tKKi5Xpes
+
+# Патенты
+1. [US9375646B2](https://patents.google.com/patent/US9375646B2/en?q=wind+tunnel&oq=wind+tunnel)

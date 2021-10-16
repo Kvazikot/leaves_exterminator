@@ -47,7 +47,12 @@
 По английски это называется wind tunnel применяется много где. см патент 
 [US9375646B2](https://patents.google.com/patent/US9375646B2/en?q=wind+tunnel&oq=wind+tunnel)
 
+# Критика применения wind tunnel
+* m1 [высокий уровень шума](https://kirov-portal.ru/news/vopros-otvet/mozhno-li-zapretit-rabotu-aehrotruby-na-plyazhe-29551/)
+* m2 вибрации основания 
+
 Возможно подключение трубы к системе тоннелей Маска и построение индустрии транспорта мусора под землей или над землей.
+
 
 # Functional Requirements
 * r1. необходимо справляться с большим количеством листьев (30 мешков)
@@ -117,5 +122,7 @@ Alex Korvin Workshop
 
 * 4.  Гнев природы! ПЫЛЕВЫЕ ВИХРИ! https://www.youtube.com/watch?v=W9tKKi5Xpes
 
+* 5. [How WIND TUNNELS Work](https://www.youtube.com/watch?v=KC0E0wU6inU)
+* 
 # Патенты
 1. [US9375646B2](https://patents.google.com/patent/US9375646B2/en?q=wind+tunnel&oq=wind+tunnel)

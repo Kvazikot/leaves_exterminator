@@ -109,7 +109,8 @@ https://rcycle.net/drevesina/listya/ustrojstva-dlya-uborki/sadovye-pylesosy/akku
 
 # Машины для сборки листьев.
 1. [Industrial Vacuum Sucks Up Thousands Of Leaves Per Minute](https://www.youtube.com/watch?v=WeCmKPCtYLw)
-2. 
+2. [Titan Leaf Solutions](https://youtu.be/DYlqoOSGh_w)
+3. 
 
 
 

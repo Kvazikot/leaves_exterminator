@@ -1,4 +1,4 @@
-# Ссылки на видеоматериалы для проекта leaves_exterminator
+# Ссылки на видеоматериалы для проекта уничтожителя листьев (leaves_exterminator)
 1. Роботы UNI3 A1 и AlienGo: https://youtu.be/cORmugDam_4
 2. [Шагающая грузовая платформа на 3D принтере. Часть 2](https://www.youtube.com/watch?v=C_nxCPMWlyc)
 3. Гнев природы! ПЫЛЕВЫЕ ВИХРИ! https://www.youtube.com/watch?v=W9tKKi5Xpes

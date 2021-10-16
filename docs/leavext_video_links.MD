@@ -6,3 +6,9 @@
 5. [How WIND TUNNELS Work2](https://youtu.be/L1AYo9Mk1EI) 
 6. [WIND TUNNELS | Delft University of Technology | Subsonic | Supersonic Wind Tunnels](https://www.youtube.com/watch?v=P0XzOsalLhk)
 7. [Миниатюрные модели wind tunnel из дерева](https://www.youtube.com/watch?v=GrsXV_zD_Do)
+
+# Машины для сборки листьев.
+1. [Industrial Vacuum Sucks Up Thousands Of Leaves Per Minute](https://www.youtube.com/watch?v=WeCmKPCtYLw)
+2. [Titan Leaf Solutions](https://youtu.be/DYlqoOSGh_w)
+3. [HOW TO DO A FALL CLEAN UP - $165 IN UNDER AN HOUR!](https://youtu.be/rxKeS-Bjc2s)
+

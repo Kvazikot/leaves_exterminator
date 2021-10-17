@@ -6,6 +6,7 @@
 5. [How WIND TUNNELS Work2](https://youtu.be/L1AYo9Mk1EI) 
 6. [WIND TUNNELS | Delft University of Technology | Subsonic | Supersonic Wind Tunnels](https://www.youtube.com/watch?v=P0XzOsalLhk)
 7. [Миниатюрные модели wind tunnel из дерева](https://www.youtube.com/watch?v=GrsXV_zD_Do)
+8. [Sanitize Large Outdoor Areas Fast with our Disinfectant Fogger - Viruses, Bacteria, Mold, Spores](https://www.youtube.com/watch?v=t5CskRV05A0)
 
 # Машины для сборки листьев.
 1. [Industrial Vacuum Sucks Up Thousands Of Leaves Per Minute](https://www.youtube.com/watch?v=WeCmKPCtYLw)

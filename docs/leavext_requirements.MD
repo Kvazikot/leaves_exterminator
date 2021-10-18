@@ -55,8 +55,10 @@
 
 Возможно подключение трубы к системе тоннелей Маска и построение индустрии транспорта мусора под землей или над землей.
 
+# Концепт рисунки.
 ![iamge](https://github.com/Kvazikot/leaves_exterminator/blob/master/concept_drawings/quadrocopters_gathering_leaves.jpg)
 ![iamge](https://github.com/Kvazikot/leaves_exterminator/blob/master/concept_drawings/vortex_dust_devil_quadrocopters.jpg)
+![iamge](https://github.com/Kvazikot/leaves_exterminator/blob/master/concept_drawings/crops_gathering_in_field_dust_devil.png)
 
 # Functional Requirements
 * r1. необходимо справляться с большим количеством листьев (30 мешков)

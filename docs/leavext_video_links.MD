@@ -7,9 +7,15 @@
 6. [WIND TUNNELS | Delft University of Technology | Subsonic | Supersonic Wind Tunnels](https://www.youtube.com/watch?v=P0XzOsalLhk)
 7. [Миниатюрные модели wind tunnel из дерева](https://www.youtube.com/watch?v=GrsXV_zD_Do)
 
+# Дезинфекционные устройства генераторов тумана или воздуходува
+8. [Sanitize Large Outdoor Areas Fast with our Disinfectant Fogger - Viruses, Bacteria, Mold, Spores](https://www.youtube.com/watch?v=t5CskRV05A0)
+9. [900W Disinfection atomizer Fog machine for Car Sterilizer fogging machine for car home office](https://www.youtube.com/watch?v=OEF9eAu6b20)
+5. [NEW! 2021 Low Lying Fog Effect for Halloween. W](https://youtu.be/Zt3SlP7A3mk)
+
 # Машины для сборки листьев.
 1. [Industrial Vacuum Sucks Up Thousands Of Leaves Per Minute](https://www.youtube.com/watch?v=WeCmKPCtYLw)
 2. [Titan Leaf Solutions](https://youtu.be/DYlqoOSGh_w)
 3. [HOW TO DO A FALL CLEAN UP - $165 IN UNDER AN HOUR!](https://youtu.be/rxKeS-Bjc2s)
 4. [HUGE Leaf Vacuums From Bonnell - BIG Vacuum Trucks Series Ep1](https://www.youtube.com/watch?v=Y9xnhKAuh_Y)
+
 

@@ -57,7 +57,7 @@
 
 # Концепт рисунки.
 ![iamge](https://github.com/Kvazikot/leaves_exterminator/blob/master/concept_drawings/quadrocopters_gathering_leaves.jpg)<br/>
-рис. 1. Неофициальный сбор урожая с использованием искусственно созданных пылевых вихрей (dust devil)
+рис. 1. Аккуратная работа команды 6-ногих гексаподов в кооперации с квадрокоптерами по сбору осенних листьев.
 
 ![iamge](https://github.com/Kvazikot/leaves_exterminator/blob/master/concept_drawings/vortex_dust_devil_quadrocopters.jpg)<br/>
 рис. 2. Лаборатория на колесах

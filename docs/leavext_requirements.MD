@@ -56,9 +56,14 @@
 Возможно подключение трубы к системе тоннелей Маска и построение индустрии транспорта мусора под землей или над землей.
 
 # Концепт рисунки.
-![iamge](https://github.com/Kvazikot/leaves_exterminator/blob/master/concept_drawings/quadrocopters_gathering_leaves.jpg)
-![iamge](https://github.com/Kvazikot/leaves_exterminator/blob/master/concept_drawings/vortex_dust_devil_quadrocopters.jpg)
-![iamge](https://github.com/Kvazikot/leaves_exterminator/blob/master/concept_drawings/crops_gathering_in_field_dust_devil.png)
+![iamge](https://github.com/Kvazikot/leaves_exterminator/blob/master/concept_drawings/quadrocopters_gathering_leaves.jpg)<br/>
+рис. 1. Неофициальный сбор урожая с использованием искусственно созданных пылевых вихрей (dust devil)
+
+![iamge](https://github.com/Kvazikot/leaves_exterminator/blob/master/concept_drawings/vortex_dust_devil_quadrocopters.jpg)<br/>
+рис. 2. Лаборатория на колесах
+
+![iamge](https://github.com/Kvazikot/leaves_exterminator/blob/master/concept_drawings/crops_gathering_in_field_dust_devil.png)<br/>
+рис. 3. Неофициальный сбор урожая с использованием искусственно созданных пылевых вихрей (dust devil)
 
 # Functional Requirements
 * r1. необходимо справляться с большим количеством листьев (30 мешков)

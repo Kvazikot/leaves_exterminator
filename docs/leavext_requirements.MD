@@ -45,9 +45,6 @@
 Возможно подключение [мобильной аэротрубы](https://tehclub.site/products/aerotruba-2-2m) на грузовике.
 В трубе можно предусмотреть масспектрометры, газоанализаторы, etc.
 
-По английски это называется wind tunnel применяется много где. см патент 
-[US9375646B2](https://patents.google.com/patent/US9375646B2/en?q=wind+tunnel&oq=wind+tunnel)
-
 ## Критика применения wind tunnel
 * m1 [высокий уровень шума](https://kirov-portal.ru/news/vopros-otvet/mozhno-li-zapretit-rabotu-aehrotruby-na-plyazhe-29551/)
 * m2 вибрации основания 

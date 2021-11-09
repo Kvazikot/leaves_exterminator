@@ -136,7 +136,7 @@ https://rcycle.net/drevesina/listya/ustrojstva-dlya-uborki/sadovye-pylesosy/akku
 
 # Патенты
 1. [US9375646B2](https://patents.google.com/patent/US9375646B2/en?q=wind+tunnel&oq=wind+tunnel) Wind tunnel design with expanding corners 
-2. 
+2. [Laser Dopler Dust Devil Meshurements](https://drive.google.com/file/d/19dUobPuPgblE1gvyvtzIlXIqZdGKvfkn/view)
 
 ## [Ссылки на видео](https://github.com/Kvazikot/leaves_exterminator/blob/master/docs/leavext_video_links.MD)
 ## [Литература](https://github.com/Kvazikot/leaves_exterminator/blob/master/docs/leavext_literature.MD)
